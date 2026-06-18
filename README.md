@@ -54,8 +54,8 @@ Desenvolvimento de websites responsivos, landing pages e e-commerce customizados
 ## 📫 Contato
 
 [![Website](https://img.shields.io/badge/Website-ricardo.dev-blue?style=flat-square&logo=google-chrome)](https://ricardogonzales.dev)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]([https://youtube.com](https://www.youtube.com/@ricardogonzalesdev))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://instagram.com](https://www.instagram.com/ricardogonzalesdev/))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ricardogonzalesdev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ricardogonzalesdev/)
 
 ---
 
